@@ -10,6 +10,7 @@
 - The paper presents a systematic evaluation of personas in system prompts.
 - The findings demonstrates that while adding a persona may lead to performance gains in certain settings, the effect of each persona can be largely random.
 
+[LLMs + Persona-Plug = Personalized LLMs](https://arxiv.org/pdf/2409.11901) (Renmin University of China, 2024)
   
 ## Medical Imaging
 [DenoMamba: A fused state-space model for low-dose CT denoising](https://www.arxiv.org/pdf/2409.13094) (Bilkent University, 2024) \
