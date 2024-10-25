@@ -6,7 +6,7 @@
 - The paper introduces a state-of-the-art ranking model, NV-RerankQAMistral-4B-v3, which achieves a significant accuracy increase of 14% compared to pipelines with other rerankers.
 
 ## Medical Imaging
-[DenoMamba: A fused state-space model for low-dose CT denoising](https://www.arxiv.org/pdf/2409.13094) (2024) \
+[DenoMamba: A fused state-space model for low-dose CT denoising](https://www.arxiv.org/pdf/2409.13094) (Bilkent University, 2024) \
 [Code](https://github.com/icon-lab/DenoMamba)
 
 - The paper proposes DenoMamba, a novel deep learning model for low-dose CT denoising.
