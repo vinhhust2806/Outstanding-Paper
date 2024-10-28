@@ -18,3 +18,10 @@
 
 - The paper proposes DenoMamba, a novel deep learning model for low-dose CT denoising.
 - Among the earliest state-space models (SSM) for image denoising, DenoMamba fuses spatial and channel SSM modules within a unified hourglass architecture to achieve high-quality reconstruction of CT images from low-dose measurements.
+
+[LiverUSRecon: Automatic 3D Reconstruction and Volumetry of the Liver with a Few Partial Ultrasound Scans](https://arxiv.org/pdf/2406.19336) (Sri Lanka, MICCAI 2024)
+[Code](https://github.com/diagnostics4u/diagnostics4u.github.io/)
+[Project](https://diagnostics4u.github.io/)
+
+- The paper proposes 3D liver reconstruction using just three ultrasound scans
+- Revolutionize liver volumetry for practitioners with basic ultrasound equipment
